@@ -1,0 +1,31 @@
+﻿6=G 
+
+Cmin           Cmin         Fmaj           bBmaj
+Adim   #Fdim   Gmin         #Cdim/A #Cdim  Dmaj
+Cmin           Cmin         Fmaj           bBmaj
+Adim   #Fdim   Gmin         bEmaj   Fmaj   Gmaj    
+*2
+
+bEmaj  Fmaj    Gmaj         bEmaj   Fmaj   Gmaj
+bEmaj  Fmaj    Cmin  Dmin   bEmaj          Fmaj
+
+
+Cmin           Cmin         Fmaj           bBmaj
+Adim   #Fdim   Gmin         #Cdim/A #Cdim  Dmaj
+Cmin           Cmin         Fmaj           bBmaj
+Adim   #Fdim   Gmin         Cmin    Dmin   Gmaj
+
+bEmaj  Fmaj    Gmaj         bEmaj   Fmaj   Gmaj
+bEmaj  Fmaj    Cmin  Dmin   bEmaj          Fmaj
+
+Gmaj   Dmaj/#F Emin  Bmin/D Cmin    Fmaj   Gmaj
+*2
+
+Gmaj   Dmaj/#F Emin  Bmin/D Cmin    Fmaj   bBmaj  Dmaj
+Gmaj   Dmaj/#F Emin  Bmin/D Cmin    Fmaj   Gmaj
+
+Gmaj   Dmaj/#F Emin  Bmin/D Cmin    Fmaj   Gmaj
+*2
+
+bEmaj  Fmaj    Gmaj         bEmaj   Fmaj   Gmaj
+bEmaj  Fmaj    Cmin  Dmin   bEmaj          Fmaj

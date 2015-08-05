@@ -1,0 +1,75 @@
+﻿6=A 4/4
+
+2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4 |
+Amin,Cmaj|Dmin,Gmaj|Fmaj,Gmaj|Amin,Amin|; 
+2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4   |2/4 ,2/4 |
+Dmin,Dmin|Gmaj,Gmaj|Cmaj,Gmaj/B|Amin,Amin|;
+
+2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4 |
+Dmin,Dmin|Gmaj,Gmaj|Cmaj,Bdim|
+
+{
+2/4 ,2/4 |2/4 ,2/4 |
+Amin,Dmin|Cmaj,Gmaj|;*4
+2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4   |2/4 ,2/4 |
+Dmin,Dmin|Gmaj,Gmaj|Cmaj,Gmaj/B|Amin,Amin|;
+2/4 ,2/4 |2/4 ,2/4 |
+Fmaj,Fmaj|Fmaj,Fmaj|;
+2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4 |
+Amin,Cmaj|Dmin,Gmaj|Fmaj,Gmaj|Amin,Amin|;
+}*2
+
+2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4 |
+Amin,Cmaj|Dmin,Gmaj|Fmaj,Gmaj|
+
+{
+2/4 ,2/4 |2/4   ,2/4   |2/4 ,2/4 |2/4 ,2/4 |
+Cmaj,Cmaj|Gmaj/B,Gmaj/B|Amin,Amin|Fmaj,Fmaj|; *4
+2/4 ,2/4 |2/4   ,2/4   |2/4 ,2/4 |2/4 ,2/4 |
+Cmaj,Cmaj|Gmaj/B,Gmaj/B|Fmaj,Fmaj|Fmaj,Fmaj|;
+2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4 |
+Amin,Cmaj|Dmin,Gmaj|Fmaj,Gmaj|Amin,Amin|;*2
+}
+
+2/4 ,2/4 |2/4 ,2/4 |
+Dmin,Cmaj|Bdim,Fmaj|;*8
+
+
+
+
+
+6=D 4/4
+
+2/4 ,2/4 |2/4 ,2/4 |2/4   ,2/4 |2/4 ,2/4 |
+Dmin,Fmaj|Gmin,Cmaj|♭Bmaj,Cmaj|Dmin,Dmin|; 
+2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4   |2/4 ,2/4 |
+Gmin,Gmin|Cmaj,Cmaj|Fmaj,Cmaj/E|Dmin,Dmin|;
+
+2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4 |
+Gmin,Gmin|Cmaj,Cmaj|Fmaj,Edim|
+
+{
+2/4 ,2/4 |2/4 ,2/4 |
+Dmin,Gmin|Fmaj,Cmaj|;*4
+2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4   |2/4 ,2/4 |
+Gmin,Gmin|Cmaj,Cmaj|Fmaj,Cmaj/E|Dmin,Dmin|;
+2/4   ,2/4   |2/4   ,2/4   |
+♭Bmaj,♭Bmaj|♭Bmaj,♭Bmaj|;
+2/4 ,2/4 |2/4 ,2/4 |2/4   ,2/4 |2/4 ,2/4 |
+Dmin,Fmaj|Gmin,Cmaj|♭Bmaj,Cmaj|Dmin,Dmin|;
+}*2
+
+2/4 ,2/4 |2/4 ,2/4 |2/4   ,2/4 |
+Dmin,Fmaj|Gmin,Cmaj|♭Bmaj,Cmaj|
+
+{
+2/4 ,2/4 |2/4   ,2/4   |2/4 ,2/4 |2/4   ,2/4   |
+Fmaj,Fmaj|Cmaj/E,Cmaj/E|Dmin,Dmin|♭Bmaj,♭Bmaj|; *4
+2/4 ,2/4 |2/4   ,2/4   |2/4   ,2/4   |2/4   ,2/4   |
+Fmaj,Fmaj|Cmaj/E,Cmaj/E|♭Bmaj,♭Bmaj|♭Bmaj,♭Bmaj|;
+2/4 ,2/4 |2/4 ,2/4 |2/4   ,2/4 |2/4 ,2/4 |
+Dmin,Fmaj|Gmin,Cmaj|♭Bmaj,Cmaj|Dmin,Dmin|;*2
+}
+
+2/4 ,2/4 |2/4 ,2/4   |
+Gmin,Fmaj|Edim,♭Bmaj|;*8
