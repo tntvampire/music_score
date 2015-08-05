@@ -1,5 +1,6 @@
-﻿6=G 
-
+﻿拍子: 3/3
+调式: G minor
+说明: G小调版（原调），只有三个弦
 Cmin           Cmin         Fmaj           bBmaj
 Adim   #Fdim   Gmin         #Cdim/A #Cdim  Dmaj
 Cmin           Cmin         Fmaj           bBmaj
