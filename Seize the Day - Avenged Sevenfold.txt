@@ -1,7 +1,7 @@
 ﻿拍子: 4/4
 调式: D minor
 说明: D小调版（原调），只有三和弦
-2/4 ,2/4 |2/4 ,2/4 |2/4   ,2/4 |2/4 ,2/4 |
+2/4 ,2/4 |2/4 ,2/4 |2/4  ,2/4 |2/4 ,2/4 |
 Dmin,Fmaj|Gmin,Cmaj|♭Bmaj,Cmaj|Dmin,Dmin|; 
 2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4   |2/4 ,2/4 |
 Gmin,Gmin|Cmaj,Cmaj|Fmaj,Cmaj/E|Dmin,Dmin|;
@@ -14,25 +14,25 @@ Gmin,Gmin|Cmaj,Cmaj|Fmaj,Edim|
 Dmin,Gmin|Fmaj,Cmaj|;*4
 2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4   |2/4 ,2/4 |
 Gmin,Gmin|Cmaj,Cmaj|Fmaj,Cmaj/E|Dmin,Dmin|;
-2/4   ,2/4   |2/4   ,2/4   |
+2/4  ,2/4  |2/4  ,2/4  |
 ♭Bmaj,♭Bmaj|♭Bmaj,♭Bmaj|;
-2/4 ,2/4 |2/4 ,2/4 |2/4   ,2/4 |2/4 ,2/4 |
+2/4 ,2/4 |2/4 ,2/4 |2/4  ,2/4 |2/4 ,2/4 |
 Dmin,Fmaj|Gmin,Cmaj|♭Bmaj,Cmaj|Dmin,Dmin|;
 }*2
 
-2/4 ,2/4 |2/4 ,2/4 |2/4   ,2/4 |
+2/4 ,2/4 |2/4 ,2/4 |2/4  ,2/4 |
 Dmin,Fmaj|Gmin,Cmaj|♭Bmaj,Cmaj|
 
 {
-2/4 ,2/4 |2/4   ,2/4   |2/4 ,2/4 |2/4   ,2/4   |
+2/4 ,2/4 |2/4   ,2/4   |2/4 ,2/4 |2/4  ,2/4  |
 Fmaj,Fmaj|Cmaj/E,Cmaj/E|Dmin,Dmin|♭Bmaj,♭Bmaj|; *4
-2/4 ,2/4 |2/4   ,2/4   |2/4   ,2/4   |2/4   ,2/4   |
+2/4 ,2/4 |2/4   ,2/4   |2/4  ,2/4  |2/4  ,2/4  |
 Fmaj,Fmaj|Cmaj/E,Cmaj/E|♭Bmaj,♭Bmaj|♭Bmaj,♭Bmaj|;
 2/4 ,2/4 |2/4 ,2/4 |2/4   ,2/4 |2/4 ,2/4 |
 Dmin,Fmaj|Gmin,Cmaj|♭Bmaj,Cmaj|Dmin,Dmin|;*2
 }
 
-2/4 ,2/4 |2/4 ,2/4   |
+2/4 ,2/4 |2/4 ,2/4  |
 Gmin,Fmaj|Edim,♭Bmaj|;*8
 
 
