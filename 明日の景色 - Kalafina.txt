@@ -1,30 +1,33 @@
 ﻿拍子: 6/8
 调式: G小调, G大调
 说明: 原调。和弦简化，只使用三和弦。
-{
-6/8
+
 Cmin          |Cmin        |Fmaj         |bBmaj      |
 Adim   #Fdim  |Gmin        |#Cdim/A #Cdim|Dmaj       |
 Cmin          |Cmin        |Fmaj         |bBmaj      |
-Adim   #Fdim  |Gmin        |Cmin    Dmin |Gmaj       |
-}*2
+Adim   #Fdim  |Gmin        |bEmaj   Dmin |Gsus4      |Gmaj       |
 
-bEmaj  Fmaj   |Gmaj        |bEmaj   Fmaj |Gmaj       |
+Cmin          |Cmin        |Fmaj         |bBmaj      |
+Adim   #Fdim  |Gmin        |#Cdim/A #Cdim|Dmaj       |
+Cmin          |Cmin        |Fmaj         |bBmaj      |
+Adim   #Fdim  |Gmin        |bEmaj   Dmin |Gmaj       |
+
+bEmaj  Fmaj   |Gsus4 Gmaj  |bEmaj   Fmaj |Gsus4 Gmin |
 bEmaj  Fmaj   |Cmin  Dmin  |bEmaj        |Fmaj       |
 
 Cmin          |Cmin        |Fmaj         |bBmaj      |
 Adim   #Fdim  |Gmin        |#Cdim/A #Cdim|Dmaj       |
 Cmin          |Cmin        |Fmaj         |bBmaj      |
-Adim   #Fdim  |Gmin        |Cmin    Dmin |Gmaj       |
+Adim   #Fdim  |Gmin        |Cmin    Dmin |Gsus4      |Gmaj       |
 
-bEmaj  Fmaj   |Gmaj        |bEmaj   Fmaj |Gmaj       |
+bEmaj  Fmaj   |Gsus4 Gmaj  |bEmaj   Fmaj |Gsus4 Gmin |
 bEmaj  Fmaj   |Cmin  Dmin  |bEmaj        |Fmaj       |
 
-Gmaj   Dmaj/#F|Emin  Bmin/D|Cmin    Fmaj |Gmaj       |*2
-Gmaj   Dmaj/#F|Emin  Bmin/D|Cmin    Fmaj |bBmaj  Dmaj|
-Gmaj   Dmaj/#F|Emin  Bmin/D|Cmin    Fmaj |Gmaj       |*3
+Gmaj   Dmaj/#F|Emin  Bmin/D|Cmin    Fmaj |Gsus4      |*2
+Gmaj   Dmaj/#F|Emin  Bmin/D|Cmin    Fmaj |bBmaj Dmaj |
+Gmaj   Dmaj/#F|Emin  Bmin/D|Cmin    Fmaj |Gsus4      |*3
 
-bEmaj  Fmaj   |Gmaj        |bEmaj   Fmaj |Gmaj       |
+bEmaj  Fmaj   |Gsus4 Gmaj  |bEmaj   Fmaj |Gsus4 Gmin |
 bEmaj  Fmaj   |Cmin  Dmin  |bEmaj        |Fmaj       |
 
 Gmaj          |Gmaj        |Gmaj         |Gmaj       |
