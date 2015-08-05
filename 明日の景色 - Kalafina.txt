@@ -1,32 +1,32 @@
 ﻿拍子: 3/3
 调式: G minor
-说明: G小调版（原调），只有三个弦
-Cmin           Cmin         Fmaj           bBmaj
+说明: G小调版（原调），只有三和弦
+Cmin           Cmin         Fmaj           ♭Bmaj
 Adim   #Fdim   Gmin         #Cdim/A #Cdim  Dmaj
-Cmin           Cmin         Fmaj           bBmaj
-Adim   #Fdim   Gmin         bEmaj   Fmaj   Gmaj    
+Cmin           Cmin         Fmaj           ♭Bmaj
+Adim   #Fdim   Gmin         ♭Emaj   Fmaj   Gmaj    
 *2
 
-bEmaj  Fmaj    Gmaj         bEmaj   Fmaj   Gmaj
-bEmaj  Fmaj    Cmin  Dmin   bEmaj          Fmaj
+♭Emaj  Fmaj    Gmaj         ♭Emaj   Fmaj   Gmaj
+♭Emaj  Fmaj    Cmin  Dmin   ♭Emaj          Fmaj
 
 
-Cmin           Cmin         Fmaj           bBmaj
+Cmin           Cmin         Fmaj           ♭Bmaj
 Adim   #Fdim   Gmin         #Cdim/A #Cdim  Dmaj
-Cmin           Cmin         Fmaj           bBmaj
+Cmin           Cmin         Fmaj           ♭Bmaj
 Adim   #Fdim   Gmin         Cmin    Dmin   Gmaj
 
-bEmaj  Fmaj    Gmaj         bEmaj   Fmaj   Gmaj
-bEmaj  Fmaj    Cmin  Dmin   bEmaj          Fmaj
+♭Emaj  Fmaj    Gmaj         ♭Emaj   Fmaj   Gmaj
+♭Emaj  Fmaj    Cmin  Dmin   ♭Emaj          Fmaj
 
 Gmaj   Dmaj/#F Emin  Bmin/D Cmin    Fmaj   Gmaj
 *2
 
-Gmaj   Dmaj/#F Emin  Bmin/D Cmin    Fmaj   bBmaj  Dmaj
+Gmaj   Dmaj/#F Emin  Bmin/D Cmin    Fmaj   ♭Bmaj  Dmaj
 Gmaj   Dmaj/#F Emin  Bmin/D Cmin    Fmaj   Gmaj
 
 Gmaj   Dmaj/#F Emin  Bmin/D Cmin    Fmaj   Gmaj
 *2
 
-bEmaj  Fmaj    Gmaj         bEmaj   Fmaj   Gmaj
-bEmaj  Fmaj    Cmin  Dmin   bEmaj          Fmaj
+♭Emaj  Fmaj    Gmaj         ♭Emaj   Fmaj   Gmaj
+♭Emaj  Fmaj    Cmin  Dmin   ♭Emaj          Fmaj
