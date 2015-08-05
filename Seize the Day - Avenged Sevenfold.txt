@@ -2,7 +2,7 @@
 调式: D minor
 说明: D小调版（原调），只有三和弦
 2/4 ,2/4 |2/4 ,2/4 |2/4  ,2/4 |2/4 ,2/4 |
-Dmin,Fmaj|Gmin,Cmaj|♭Bmaj,Cmaj|Dmin,Dmin|; 
+Dmin,Fmaj|Gmin,Cmaj|bBmaj,Cmaj|Dmin,Dmin|; 
 2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4   |2/4 ,2/4 |
 Gmin,Gmin|Cmaj,Cmaj|Fmaj,Cmaj/E|Dmin,Dmin|;
 
@@ -15,25 +15,25 @@ Dmin,Gmin|Fmaj,Cmaj|;*4
 2/4 ,2/4 |2/4 ,2/4 |2/4 ,2/4   |2/4 ,2/4 |
 Gmin,Gmin|Cmaj,Cmaj|Fmaj,Cmaj/E|Dmin,Dmin|;
 2/4  ,2/4  |2/4  ,2/4  |
-♭Bmaj,♭Bmaj|♭Bmaj,♭Bmaj|;
+bBmaj,bBmaj|bBmaj,bBmaj|;
 2/4 ,2/4 |2/4 ,2/4 |2/4  ,2/4 |2/4 ,2/4 |
-Dmin,Fmaj|Gmin,Cmaj|♭Bmaj,Cmaj|Dmin,Dmin|;
+Dmin,Fmaj|Gmin,Cmaj|bBmaj,Cmaj|Dmin,Dmin|;
 }*2
 
 2/4 ,2/4 |2/4 ,2/4 |2/4  ,2/4 |
-Dmin,Fmaj|Gmin,Cmaj|♭Bmaj,Cmaj|
+Dmin,Fmaj|Gmin,Cmaj|bBmaj,Cmaj|
 
 {
 2/4 ,2/4 |2/4   ,2/4   |2/4 ,2/4 |2/4  ,2/4  |
-Fmaj,Fmaj|Cmaj/E,Cmaj/E|Dmin,Dmin|♭Bmaj,♭Bmaj|; *4
+Fmaj,Fmaj|Cmaj/E,Cmaj/E|Dmin,Dmin|bBmaj,bBmaj|; *4
 2/4 ,2/4 |2/4   ,2/4   |2/4  ,2/4  |2/4  ,2/4  |
-Fmaj,Fmaj|Cmaj/E,Cmaj/E|♭Bmaj,♭Bmaj|♭Bmaj,♭Bmaj|;
+Fmaj,Fmaj|Cmaj/E,Cmaj/E|bBmaj,bBmaj|bBmaj,bBmaj|;
 2/4 ,2/4 |2/4 ,2/4 |2/4   ,2/4 |2/4 ,2/4 |
-Dmin,Fmaj|Gmin,Cmaj|♭Bmaj,Cmaj|Dmin,Dmin|;*2
+Dmin,Fmaj|Gmin,Cmaj|bBmaj,Cmaj|Dmin,Dmin|;*2
 }
 
 2/4 ,2/4 |2/4 ,2/4  |
-Gmin,Fmaj|Edim,♭Bmaj|;*8
+Gmin,Fmaj|Edim,bBmaj|;*8
 
 
 拍子: 4/4
