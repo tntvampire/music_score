@@ -1,32 +1,33 @@
-﻿拍子: 3/3
-调式: G minor
-说明: G小调版（原调），只有三和弦
-Cmin           Cmin         Fmaj           bBmaj
-Adim   #Fdim   Gmin         #Cdim/A #Cdim  Dmaj
-Cmin           Cmin         Fmaj           bBmaj
-Adim   #Fdim   Gmin         bEmaj   Fmaj   Gmaj    
-*2
+﻿拍子: 6/8
+调式: G小调, G大调
+说明: 原调。和弦简化，只使用三和弦。
+{
+6/8
+Cmin          |Cmin        |Fmaj         |bBmaj      |
+Adim   #Fdim  |Gmin        |#Cdim/A #Cdim|Dmaj       |
+Cmin          |Cmin        |Fmaj         |bBmaj      |
+Adim   #Fdim  |Gmin        |Cmin    Dmin |Gmaj       |
+}*2
 
-bEmaj  Fmaj    Gmaj         bEmaj   Fmaj   Gmaj
-bEmaj  Fmaj    Cmin  Dmin   bEmaj          Fmaj
+bEmaj  Fmaj   |Gmaj        |bEmaj   Fmaj |Gmaj       |
+bEmaj  Fmaj   |Cmin  Dmin  |bEmaj        |Fmaj       |
 
+Cmin          |Cmin        |Fmaj         |bBmaj      |
+Adim   #Fdim  |Gmin        |#Cdim/A #Cdim|Dmaj       |
+Cmin          |Cmin        |Fmaj         |bBmaj      |
+Adim   #Fdim  |Gmin        |Cmin    Dmin |Gmaj       |
 
-Cmin           Cmin         Fmaj           bBmaj
-Adim   #Fdim   Gmin         #Cdim/A #Cdim  Dmaj
-Cmin           Cmin         Fmaj           bBmaj
-Adim   #Fdim   Gmin         Cmin    Dmin   Gmaj
+bEmaj  Fmaj   |Gmaj        |bEmaj   Fmaj |Gmaj       |
+bEmaj  Fmaj   |Cmin  Dmin  |bEmaj        |Fmaj       |
 
-bEmaj  Fmaj    Gmaj         bEmaj   Fmaj   Gmaj
-bEmaj  Fmaj    Cmin  Dmin   bEmaj          Fmaj
+Gmaj   Dmaj/#F|Emin  Bmin/D|Cmin    Fmaj |Gmaj       |*2
+Gmaj   Dmaj/#F|Emin  Bmin/D|Cmin    Fmaj |bBmaj  Dmaj|
+Gmaj   Dmaj/#F|Emin  Bmin/D|Cmin    Fmaj |Gmaj       |*3
 
-Gmaj   Dmaj/#F Emin  Bmin/D Cmin    Fmaj   Gmaj
-*2
+bEmaj  Fmaj   |Gmaj        |bEmaj   Fmaj |Gmaj       |
+bEmaj  Fmaj   |Cmin  Dmin  |bEmaj        |Fmaj       |
 
-Gmaj   Dmaj/#F Emin  Bmin/D Cmin    Fmaj   bBmaj  Dmaj
-Gmaj   Dmaj/#F Emin  Bmin/D Cmin    Fmaj   Gmaj
+Gmaj          |Gmaj        |Gmaj         |Gmaj       |
 
-Gmaj   Dmaj/#F Emin  Bmin/D Cmin    Fmaj   Gmaj
-*2
-
-bEmaj  Fmaj    Gmaj         bEmaj   Fmaj   Gmaj
-bEmaj  Fmaj    Cmin  Dmin   bEmaj          Fmaj
+Cmin          |Cmin        |Fmaj         |bBmaj      |
+Adim   #Fdim  |Gmin        |bEmaj   Fmaj |Gmaj       |
