@@ -5,12 +5,12 @@
 Cmin          |Cmin        |F7           |bBmaj      |
 Adim   #Fdim  |Gmin        |#Cdim/A #Cdim|Dmaj       |
 Cmin          |Cmin        |F7           |bBmaj      |
-Adim   #Fdim  |Gmin        |bEmaj   Dmin |Gsus4      |Gmaj       |
+Adim   #Fdim  |Gmin  Gmin/F|bEmaj   Dmin |Gsus4      |Gmaj       |
 
 Cmin          |Cmin        |F7           |bBmaj      |
 Adim   #Fdim  |Gmin        |#Cdim/A #Cdim|Dmaj       |
 Cmin          |Cmin        |F7           |bBmaj      |
-Adim   #Fdim  |Gmin        |bEmaj   Dmin |Gmaj       |
+Adim   #Fdim  |Gmin  Gmin/F|bEmaj   Dmin |Gmaj       |
 
 bEmaj  Fmaj   |Gsus4 Gmaj  |bEmaj   Fmaj |Gsus4 Gmaj |
 bEmaj  Fmaj   |Cmin  Dmin  |bEmaj        |Fmaj       |
@@ -18,7 +18,7 @@ bEmaj  Fmaj   |Cmin  Dmin  |bEmaj        |Fmaj       |
 Cmin          |Cmin        |F7           |bBmaj      |
 Adim   #Fdim  |Gmin        |#Cdim/A #Cdim|Dmaj       |
 Cmin          |Cmin        |F7           |bBmaj      |
-Adim   #Fdim  |Gmin        |Cmin    Dmin |Gsus4      |Gmaj       |
+Adim   #Fdim  |Gmin  Gmin/F|Cmin    Dmin |Gsus4      |Gmaj       |
 
 bEmaj  Fmaj   |Gsus4 Gmaj  |bEmaj   Fmaj |Gsus4 Gmaj |
 bEmaj  Fmaj   |Cmin  Dmin  |bEmaj        |Fmaj       |
@@ -33,4 +33,4 @@ bEmaj  Fmaj   |Cmin  Dmin  |bEmaj        |Fmaj       |
 Gmaj          |Gmaj        |Gmaj         |Gmaj       |
 
 Cmin          |Cmin        |F7           |bBmaj      |
-Adim   #Fdim  |Gmin        |bEmaj   Fmaj |Gmaj       |
+Adim   #Fdim  |Gmin  Gmin/F|bEmaj   Fmaj |Gmaj       |
