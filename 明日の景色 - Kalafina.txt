@@ -5,7 +5,7 @@
 Cmin          |Cmin        |F7           |bBmaj      |
 Adim   #Fdim  |Gmin        |#Cdim/A #Cdim|Dmaj       |
 Cmin          |Cmin        |F7           |bBmaj      |
-Adim   #Fdim  |Gmin  Gmin/F|bEmaj   Dmin |Gsus4      |Gmaj       |
+Adim   #Fdim  |Gmin  Gmin/F|bEmaj   Fmaj |Gsus4      |Gmaj       |
 
 Cmin          |Cmin        |F7           |bBmaj      |
 Adim   #Fdim  |Gmin        |#Cdim/A #Cdim|Dmaj       |
