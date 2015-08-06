@@ -12,7 +12,7 @@ Adim   #Fdim  |Gmin        |#Cdim/A #Cdim|Dmaj       |
 Cmin          |Cmin        |Fmaj         |bBmaj      |
 Adim   #Fdim  |Gmin        |bEmaj   Dmin |Gmaj       |
 
-bEmaj  Fmaj   |Gsus4 Gmaj  |bEmaj   Fmaj |Gsus4 Gmin |
+bEmaj  Fmaj   |Gsus4 Gmaj  |bEmaj   Fmaj |Gsus4 Gmaj |
 bEmaj  Fmaj   |Cmin  Dmin  |bEmaj        |Fmaj       |
 
 Cmin          |Cmin        |Fmaj         |bBmaj      |
@@ -20,14 +20,14 @@ Adim   #Fdim  |Gmin        |#Cdim/A #Cdim|Dmaj       |
 Cmin          |Cmin        |Fmaj         |bBmaj      |
 Adim   #Fdim  |Gmin        |Cmin    Dmin |Gsus4      |Gmaj       |
 
-bEmaj  Fmaj   |Gsus4 Gmaj  |bEmaj   Fmaj |Gsus4 Gmin |
+bEmaj  Fmaj   |Gsus4 Gmaj  |bEmaj   Fmaj |Gsus4 Gmaj |
 bEmaj  Fmaj   |Cmin  Dmin  |bEmaj        |Fmaj       |
 
 Gmaj   Dmaj/#F|Emin  Bmin/D|Cmin    Fmaj |Gsus4      |*2
 Gmaj   Dmaj/#F|Emin  Bmin/D|Cmin    Fmaj |bBmaj Dmaj |
 Gmaj   Dmaj/#F|Emin  Bmin/D|Cmin    Fmaj |Gsus4      |*3
 
-bEmaj  Fmaj   |Gsus4 Gmaj  |bEmaj   Fmaj |Gsus4 Gmin |
+bEmaj  Fmaj   |Gsus4 Gmaj  |bEmaj   Fmaj |Gsus4 Gmaj |
 bEmaj  Fmaj   |Cmin  Dmin  |bEmaj        |Fmaj       |
 
 Gmaj          |Gmaj        |Gmaj         |Gmaj       |
