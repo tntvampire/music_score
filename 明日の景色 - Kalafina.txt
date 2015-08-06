@@ -33,4 +33,4 @@ bEmaj  Fmaj   |Cmin  Dmin  |bEmaj        |Fmaj       |
 Gmaj          |Gmaj        |Gmaj         |Gmaj       |
 
 Cmin          |Cmin        |F7           |bBmaj      |
-Adim   #Fdim  |Gmin  Gmin/F|bEmaj   Fmaj |Gmaj       |
+Adim   #Fdim  |Gmin  Gmin/F|bEmaj   Dmin |Gmaj       |
