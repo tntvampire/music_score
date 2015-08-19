@@ -1,49 +1,49 @@
-ÅÄ×Ó: 6/8
-µ÷Ê½: DĞ¡µ÷¡¢CĞ¡µ÷¡¢AĞ¡µ÷¡¢EĞ¡µ÷
-ËµÃ÷: Ô­µ÷¡£
+ï»¿æ‹å­: 6/8
+è°ƒå¼: Då°è°ƒã€Cå°è°ƒã€Aå°è°ƒã€Eå°è°ƒ
+è¯´æ˜: åŸè°ƒã€‚
 
-DĞ¡µ÷£º
+Då°è°ƒï¼š
 Dmin    Amin   |bBmaj   Fmaj   |Gmin   bBmaj/#G |Amaj     Amaj   |
 
 
-DĞ¡µ÷£º
+Då°è°ƒï¼š
 Dmin    Amin   |bBmaj   Fmaj   |Gmin   Cmaj     |Fmaj     Amaj   |
 Dmin    Amin   |bBmaj   Fmaj   |Gmin   Amin     |bBmaj    bBmaj  |bBmaj   bBmaj  |Amin/C Amin/C   |Amin/C   Amin/C |
 Dmin    Amin   |bBmaj   Fmaj   |Gmin   Amin     |bBmaj    Asus4  |
 Dmin    Amin   |bBmaj   Fmaj   |Dmin   Amin     |bBmaj    Fmaj   |
 Dmin    Amin   |bBmaj   Fmaj   |Gmin   Amin     |bBmaj    Asus4  |
-CĞ¡µ÷£º
+Cå°è°ƒï¼š
 Cmin    Gmin   |bAmaj   bEmaj  |Cmin   Gmin     |bAmaj    bEmaj  |
 Cmin    Gmin   |bAmaj   bEmaj  |Fmin            |Gmaj            |
-AĞ¡µ÷£º
+Aå°è°ƒï¼š
 Amin    Amin/E |Emin    Emin/B |Fmaj   Gmaj     |Cmaj     Emaj/B | 
 Amin    Amin/E |Emin    Emin/B |Fmin   bEmaj    |Ddim     Gmaj   |bAmaj   bBmaj  |bBsus4 bCdim    |
 
-ĞİÖ¹°ëĞ¡½Ú
+ä¼‘æ­¢åŠå°èŠ‚
 
-DĞ¡µ÷£º
+Då°è°ƒï¼š
 Dmin    Amin   |bBmaj   Fmaj   |Gmin   Cmaj     |Fmaj     Amaj   |
 Dmin    Amin   |bBmaj   Fmaj   |Gmin   Amin     |bBmaj    bBmaj  |bBmaj   bBmaj  |Amin/C Amin/C   |Amin/C   Amin/C |
 Dmin    Amin   |bBmaj   Fmaj   |Gmin   Amin     |bBmaj    Asus4  |
 Dmin    Amin   |bBmaj   Fmaj   |Dmin   Amin     |bBmaj    Fmaj   |
 Dmin    Amin   |bBmaj   Fmaj   |Gmin   Amin     |bBmaj    Asus4  |
-CĞ¡µ÷£º
+Cå°è°ƒï¼š
 Cmin    Gmin   |bAmaj   bEmaj  |Cmin   Gmin     |bAmaj    bEmaj  |
 Cmin    Gmin   |bAmaj   bEmaj  |Fmin            |Gmaj            |
-AĞ¡µ÷£º
+Aå°è°ƒï¼š
 Amin    Amin/E |Emin    Emin/B |Fmaj   Gmaj     |Cmaj     Emaj/B | 
 Amin    Amin/E |Emin    Emin/B |Fmin   bEmaj    |Ddim     Gmaj   |
-CĞ¡µ÷£º
+Cå°è°ƒï¼š
 bAmaj7  bAmaj7 |bAmaj7  bAmaj7 |bBmaj  bBmaj    |bBmaj    bBmaj  |
 bAmaj7  bAmaj7 |bAmaj7  bAmaj7 |bBmaj  bBmaj    |bCdim    Gmaj   |bAmaj7  bAmaj7 |Gmaj   Gmaj     |
 
 
-DĞ¡µ÷£º
+Då°è°ƒï¼š
 Dmin    Amin   |bBmaj   Fmaj   |Gmin   Cmaj     |Fmaj     Amaj   |
 Dmin    Amin   |bBmaj   Fmaj   |Gmin   bBmaj/#G |Amaj     Amaj   |
 
 
-EĞ¡µ÷£º
+Eå°è°ƒï¼š
 Emin    Bmin   |Cmaj    Gmaj   |Amin   Dmaj     |Gmaj     Bmin   |
 Emin    Bmin   |Cmaj    Gmaj   |Amin   Bmin     |Cmaj     Cmaj   |Cmaj    Cmaj   |Bmin/D Bmin/D   |Bmin/D   Bmin/D |
 Emin    Bmin   |Cmaj    Gmaj   |Amin   Bmin     |Cmaj     Bmin   |Emaj           |Emaj            |
