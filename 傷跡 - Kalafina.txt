@@ -1,0 +1,49 @@
+拍子: 6/8
+调式: D小调、C小调、A小调、E小调
+说明: 原调。
+
+D小调：
+Dmin    Amin   |bBmaj   Fmaj   |Gmin   bBmaj/#G |Amaj     Amaj   |
+
+
+D小调：
+Dmin    Amin   |bBmaj   Fmaj   |Gmin   Cmaj     |Fmaj     Amaj   |
+Dmin    Amin   |bBmaj   Fmaj   |Gmin   Amin     |bBmaj    bBmaj  |bBmaj   bBmaj  |Amin/C Amin/C   |Amin/C   Amin/C |
+Dmin    Amin   |bBmaj   Fmaj   |Gmin   Amin     |bBmaj    Asus4  |
+Dmin    Amin   |bBmaj   Fmaj   |Dmin   Amin     |bBmaj    Fmaj   |
+Dmin    Amin   |bBmaj   Fmaj   |Gmin   Amin     |bBmaj    Asus4  |
+C小调：
+Cmin    Gmin   |bAmaj   bEmaj  |Cmin   Gmin     |bAmaj    bEmaj  |
+Cmin    Gmin   |bAmaj   bEmaj  |Fmin            |Gmaj            |
+A小调：
+Amin    Amin/E |Emin    Emin/B |Fmaj   Gmaj     |Cmaj     Emaj/B | 
+Amin    Amin/E |Emin    Emin/B |Fmin   bEmaj    |Ddim     Gmaj   |bAmaj   bBmaj  |bBsus4 bCdim    |
+
+休止半小节
+
+D小调：
+Dmin    Amin   |bBmaj   Fmaj   |Gmin   Cmaj     |Fmaj     Amaj   |
+Dmin    Amin   |bBmaj   Fmaj   |Gmin   Amin     |bBmaj    bBmaj  |bBmaj   bBmaj  |Amin/C Amin/C   |Amin/C   Amin/C |
+Dmin    Amin   |bBmaj   Fmaj   |Gmin   Amin     |bBmaj    Asus4  |
+Dmin    Amin   |bBmaj   Fmaj   |Dmin   Amin     |bBmaj    Fmaj   |
+Dmin    Amin   |bBmaj   Fmaj   |Gmin   Amin     |bBmaj    Asus4  |
+C小调：
+Cmin    Gmin   |bAmaj   bEmaj  |Cmin   Gmin     |bAmaj    bEmaj  |
+Cmin    Gmin   |bAmaj   bEmaj  |Fmin            |Gmaj            |
+A小调：
+Amin    Amin/E |Emin    Emin/B |Fmaj   Gmaj     |Cmaj     Emaj/B | 
+Amin    Amin/E |Emin    Emin/B |Fmin   bEmaj    |Ddim     Gmaj   |
+C小调：
+bAmaj7  bAmaj7 |bAmaj7  bAmaj7 |bBmaj  bBmaj    |bBmaj    bBmaj  |
+bAmaj7  bAmaj7 |bAmaj7  bAmaj7 |bBmaj  bBmaj    |bCdim    Gmaj   |bAmaj7  bAmaj7 |Gmaj   Gmaj     |
+
+
+D小调：
+Dmin    Amin   |bBmaj   Fmaj   |Gmin   Cmaj     |Fmaj     Amaj   |
+Dmin    Amin   |bBmaj   Fmaj   |Gmin   bBmaj/#G |Amaj     Amaj   |
+
+
+E小调：
+Emin    Bmin   |Cmaj    Gmaj   |Amin   Dmaj     |Gmaj     Bmin   |
+Emin    Bmin   |Cmaj    Gmaj   |Amin   Bmin     |Cmaj     Cmaj   |Cmaj    Cmaj   |Bmin/D Bmin/D   |Bmin/D   Bmin/D |
+Emin    Bmin   |Cmaj    Gmaj   |Amin   Bmin     |Cmaj     Bmin   |Emaj           |Emaj            |
