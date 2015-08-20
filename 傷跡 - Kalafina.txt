@@ -3,7 +3,7 @@
 说明: 原调。
 
 D小调（前奏）：
-Dmin    Amin       |bBmaj   Fmaj   |Gmin        bBmaj/#G   |Amaj        Amaj   |
+Dmin    Amin       |bBmaj   Fmaj   |Gmin        bBmaj/#G   |Amaj        Amaj       |
 
 
 D小调：
