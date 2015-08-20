@@ -9,7 +9,7 @@ Dmin    Amin   |bBmaj   Fmaj   |Gmin   bBmaj/#G |Amaj     Amaj   |
 D小调：
 Dmin    Amin   |bBmaj   Fmaj   |Gmin   Cmaj     |Fmaj     Amaj   |
 Dmin    Amin   |bBmaj   Fmaj   |Gmin   Amin     |
-bBmaj    bBmaj |bBmaj   bBmaj  |Amin/C Amin/C   |Amin/C   Amin/C |
+bBmaj   bBmaj  |bBmaj   bBmaj  |Amin/C Amin/C   |Amin/C   Amin/C |
 Dmin    Amin   |bBmaj   Fmaj   |Gmin   Amin     |bBmaj    Asus4  |
 Dmin    Amin   |bBmaj   Fmaj   |Dmin   Amin     |bBmaj    Fmaj   |
 Dmin    Amin   |bBmaj   Fmaj   |Gmin   Amin     |bBmaj    Asus4  |
