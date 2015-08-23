@@ -49,7 +49,7 @@ Dmin    Amin       |bBmaj   Fmaj   |Gmin        bBmaj/#G   |Amaj        Amaj    
 
 
 E小调：
-Emin    Bmin       |Cmaj    Gmaj   |Amin        Dmaj       |Gmaj        Bmin       |
+Emin    Bmin       |Cmaj    Gmaj   |Amin        Dmaj       |Gmaj        Bmaj       |
 Emin    Bmin       |Cmaj    Gmaj   |Amin        Bmin       |
 Cmaj    Cmaj       |Cmaj    Cmaj   |Bmin/D      Bmin/D     |Bmin/D      Bmin/D     |
 Emin    Bmin       |Cmaj    Gmaj   |Amin        Bmin       |Cmaj        Bmin       |
