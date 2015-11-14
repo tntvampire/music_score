@@ -1,8 +1,8 @@
-ÅÄ×Ó: 4/4
-µ÷Ê½: BĞ¡µ÷¡¢DĞ¡µ÷¡¢#CĞ¡µ÷¡¢EĞ¡µ÷
-ËµÃ÷: Ô­µ÷¡£
+ï»¿æ‹å­: 4/4
+è°ƒå¼: Bå°è°ƒã€Då°è°ƒã€#Cå°è°ƒã€Eå°è°ƒ
+è¯´æ˜: åŸè°ƒã€‚
 
-BĞ¡µ÷£º                                                                         
+Bå°è°ƒï¼š                                                                         
 Bmin(min7) |Bmin(min7) |Bmin(min7) |Bmin(min7) |
                                     2/16   3/16 3/16 8/16
 Bmin(min7) |Amaj       |Bmin(min7) |Gmaj/B Emin Fdim bGmaj|
@@ -13,23 +13,23 @@ Bmin(min7) |Bmin(min7) |Bmin(min7) |Bmin(min7) |
 Bmin(min7) |Amaj       |Gmaj/B     |Gmaj/B Emin Fdim bGmaj|
 }*2
 
-            DĞ¡µ÷£º
+            Då°è°ƒï¼š
 Gmaj       |Gmin(min7) |Dmin(min7) |Amin(min7) |
 Gmin(min7) |Amin(min7) |Dsus4      |Dmaj       |
 
-BĞ¡µ÷£º
+Bå°è°ƒï¼š
 Gmaj(maj7) |Amaj       |Bsus4      |Bmaj       |*2
 
-#CĞ¡µ÷£º
+#Cå°è°ƒï¼š
 {
 #Cmin(min7)|#Cmin(min7)|#Cmin(min7)|#Cmin(min7)|
                                     2/16    3/16 3/16 8/16
 #Cmin(min7)|Bmaj       |#Cmin(min7)|Amaj/#C #Fmin Gdim bAmaj|
 }*2
 
-            EĞ¡µ÷£º
+            Eå°è°ƒï¼š
 Amaj       |Amin(min7) |Emin(min7) |Bmin(min7) |
 Amin(min7) |Bmin(min7) |Esus4      |Emaj       |
 
-#CĞ¡µ÷£º
+#Cå°è°ƒï¼š
 Amaj(maj7) |Bmaj       |#Csus4     |#Cmaj      |*10
