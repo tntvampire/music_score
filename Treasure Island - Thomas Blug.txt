@@ -1,0 +1,35 @@
+拍子: 4/4
+调式: B小调、D小调、#C小调、E小调
+说明: 原调。
+
+B小调：                                                                         
+Bmin(min7) |Bmin(min7) |Bmin(min7) |Bmin(min7) |
+                                    2/16   3/16 3/16 8/16
+Bmin(min7) |Amaj       |Bmin(min7) |Gmaj/B Emin Fdim bGmaj|
+
+{                                                                         
+Bmin(min7) |Bmin(min7) |Bmin(min7) |Bmin(min7) |
+                                    2/16   3/16 3/16 8/16
+Bmin(min7) |Amaj       |Gmaj/B     |Gmaj/B Emin Fdim bGmaj|
+}*2
+
+            D小调：
+Gmaj       |Gmin(min7) |Dmin(min7) |Amin(min7) |
+Gmin(min7) |Amin(min7) |Dsus4      |Dmaj       |
+
+B小调：
+Gmaj(maj7) |Amaj       |Bsus4      |Bmaj       |*2
+
+#C小调：
+{
+#Cmin(min7)|#Cmin(min7)|#Cmin(min7)|#Cmin(min7)|
+                                    2/16    3/16 3/16 8/16
+#Cmin(min7)|Bmaj       |#Cmin(min7)|Amaj/#C #Fmin Gdim bAmaj|
+}*2
+
+            E小调：
+Amaj       |Amin(min7) |Emin(min7) |Bmin(min7) |
+Amin(min7) |Bmin(min7) |Esus4      |Emaj       |
+
+#C小调：
+Amaj(maj7) |Bmaj       |#Csus4     |#Cmaj      |*10
