@@ -23,7 +23,7 @@ Gmaj(maj7) |Amaj       |Bsus4      |Bmaj       |*2
 #C小调：
 {
 #Cmin(min7)|#Cmin(min7)|#Cmin(min7)|#Cmin(min7)|
-                                    2/16    3/16 3/16 8/16
+                                    2/16    3/16  3/16 8/16
 #Cmin(min7)|Bmaj       |#Cmin(min7)|Amaj/#C #Fmin Gdim bAmaj|
 }*2
 
