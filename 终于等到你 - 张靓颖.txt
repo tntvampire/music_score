@@ -1,0 +1,58 @@
+ÅÄ×Ó: 4/4
+µ÷Ê½: E´óµ÷£¨#CÐ¡µ÷£©
+ËµÃ÷: Ô­µ÷¡£°Ç×ÔºÂºÆº­±àÅä°é×à¡£
+
+Ç°×à£º
+Emaj       |#Ddim          #Gmaj       |#Cmin             |Emaj/B                |
+Asus2      |#Gmin                      |#Fmin(min7)       |#Fmin(min7)           |
+Bsus4      |Bmaj                       |
+
+ÀÖ¶ÎA1£º
+Emaj(maj7) |Emaj(maj7)                 |#Gmin(min7)       |#Gmin(min7)           |
+Asus2      |Bmaj                       |Esus4             |Emaj                  | 
+#Ddim(dim7)|#Ddim(dim7)/C              |#Gmin(min7)       |#Cmin                 |
+#Fmin(min7)|#Adim                      |Bmaj              |Bmaj(min7)            |
+ÀÖ¶ÎA2£º
+Emaj(maj7) |Emaj(maj7)                 |#Gmin(min7)       |#Gmin(min7)           |
+Asus2      |Bmaj                       |Esus4             |Emaj                  | 
+#Ddim(dim7)|#Ddim(dim7)/C              |#Gmin(min7)       |#Cmin                 |
+#Fmin(min7)|#Adim                      |Bsus4             |Bmaj                  |
+
+ÀÖ¶ÎB1£º
+#Gmaj(min7)|#Bdim                      |#Cmin             |#Cmin                 |
+#Fmin(min7)|Bmaj(min7)                 |Esus4             |Emaj                  |
+#Ddim(dim7)|#Gmaj                      |#Cmin       Emaj/B|#Adim                 |
+#Fmin(min7)|Amaj                       |Bmaj              |Bmaj                  |
+Emaj       |Emaj          Bmaj(min7)   | 
+
+ÀÖ¶ÎC1£º
+Emaj       |#Gmaj         #Ddim(dim7)/C|#Cmin             |Bmaj(min7) Emaj       |
+Asus4      |#Gmin(min7)                |#Fmin(min7)       |Bmaj       Bmaj(min7) |
+ÀÖ¶ÎC2£º
+Emaj       |#Gmaj         #Ddim(dim7)/C|#Cmin             |Bmaj(min7) Emaj       |
+Asus4      |#Gmin(min7)                |#Fmin(min7)       |Bmaj                  |
+
+ÇÅ¶Î1£º
+#Fmin(min7)|#Gmin(min7)                |#Bdim             |Cmin       Bmaj       |
+Asus4      |#Gmin(min7)                |Gmaj(maj6)        |#Fmin                 |
+
+ÀÖ¶ÎB1£ºÊ¡ÂÔ¡­¡­
+
+ÀÖ¶ÎC1£ºÊ¡ÂÔ¡­¡­
+ÀÖ¶ÎC2£ºÊ¡ÂÔ¡­¡­
+
+ÇÅ¶Î2£º
+Amaj(maj7) |Amaj(maj7)                 |#Gmin(min7)       |#Gmin(min7)           |
+Gmaj(maj6) |Gmaj(maj6)                 |Bsus4             |Esus4/B               |
+
+ÀÖ¶ÎC3£º
+Emaj       |#Ddim                      |#Cmin             |Bmaj(min7)  Emaj      |
+Asus4      |#Gmin(min7)                |#Fmin(min7)       |Bmaj        Bmaj(min7)|
+
+ÀÖ¶ÎD1£º
+Emaj       |#Ddim         #Gmaj        |Asus4             |#Adim                 |
+#Fmin      |#Gmin(min7)                |Asus4             |Bmaj        Bsus4     |
+
+Î²×à£º
+Asus4      |#Gmin(min7)                |#Fmin(min7)       |Bmaj                  |
+Bmaj(min7) |Emaj                       |
