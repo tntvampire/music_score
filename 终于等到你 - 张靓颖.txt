@@ -7,52 +7,53 @@ Emaj       |#Ddim          #Gmaj       |#Cmin             |Emaj/B               
 Asus2      |#Gmin                      |#Fmin(min7)       |#Fmin(min7)           |
 Bsus4      |Bmaj                       |
 
-乐段A1：
+段落A1：
 Emaj(maj7) |Emaj(maj7)                 |#Gmin(min7)       |#Gmin(min7)           |
 Asus2      |Bmaj                       |Esus4             |Emaj                  | 
 #Ddim(dim7)|#Ddim(dim7)/C              |#Gmin(min7)       |#Cmin                 |
 #Fmin(min7)|#Adim                      |Bmaj              |Bmaj(min7)            |
-乐段A2：
+段落A2：
 Emaj(maj7) |Emaj(maj7)                 |#Gmin(min7)       |#Gmin(min7)           |
 Asus2      |Bmaj                       |Esus4             |Emaj                  | 
 #Ddim(dim7)|#Ddim(dim7)/C              |#Gmin(min7)       |#Cmin                 |
 #Fmin(min7)|#Adim                      |Bsus4             |Bmaj                  |
 
-乐段B1：
+段落B1：
 #Gmaj(min7)|#Bdim                      |#Cmin             |#Cmin                 |
 #Fmin(min7)|Bmaj(min7)                 |Esus4             |Emaj                  |
-#Ddim(dim7)|#Gmaj                      |#Cmin       Emaj/B|#Adim                 |
+#Ddim(dim7)|#Gmaj(min7)                |#Cmin       Emaj/B|#Adim                 |
 #Fmin(min7)|Amaj                       |Bmaj              |Bmaj                  |
 Emaj       |Emaj          Bmaj(min7)   | 
 
-乐段C1：
-Emaj       |#Gmaj         #Ddim(dim7)/C|#Cmin             |Bmaj(min7) Emaj       |
+段落C1：
+Emaj       |#Gmaj(min7)                |#Cmin             |Bmaj(min7) Emaj       |
 Asus4      |#Gmin(min7)                |#Fmin(min7)       |Bmaj       Bmaj(min7) |
-乐段C2：
-Emaj       |#Gmaj         #Ddim(dim7)/C|#Cmin             |Bmaj(min7) Emaj       |
+段落C2：
+Emaj       |#Gmaj(min7)   #Ddim(dim7)/C|#Cmin             |Bmaj(min7) Emaj       |
 Asus4      |#Gmin(min7)                |#Fmin(min7)       |Bmaj                  |
 
 桥段1：
 #Fmin(min7)|#Gmin(min7)                |#Bdim             |Cmin       Bmaj       |
 Asus4      |#Gmin(min7)                |Gmaj(maj6)        |#Fmin                 |
+Bsus4      |Bmaj                       |
 
-乐段B1：省略……
+段落B1：省略
 
-乐段C1：省略……
-乐段C2：省略……
+段落C1：省略
+段落C2：省略
 
 桥段2：
 Amaj(maj7) |Amaj(maj7)                 |#Gmin(min7)       |#Gmin(min7)           |
 Gmaj(maj6) |Gmaj(maj6)                 |Bsus4             |Esus4/B               |
 
-乐段C3：
+段落C3：
 Emaj       |#Ddim                      |#Cmin             |Bmaj(min7)  Emaj      |
 Asus4      |#Gmin(min7)                |#Fmin(min7)       |Bmaj        Bmaj(min7)|
 
-乐段D1：
+段落D1：
 Emaj       |#Ddim         #Gmaj        |Asus4             |#Adim                 |
 #Fmin      |#Gmin(min7)                |Asus4             |Bmaj        Bsus4     |
 
 尾奏：
-Asus4      |#Gmin(min7)                |#Fmin(min7)       |Bmaj                  |
-Bmaj(min7) |Emaj                       |
+Asus4      |#Gmin(min7)                |#Fmin(min7)       |Bmaj        Bmaj(min7)|
+Emaj       |
