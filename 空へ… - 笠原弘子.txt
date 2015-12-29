@@ -1,0 +1,64 @@
+﻿拍子: 6/8
+调式: D小调、A小调、E小调、G小调
+说明: 原调。
+和弦记号说明：
+Xmaj，大三和弦
+Xmin，小三和弦
+Xdim，减三和弦
+Xmaj(maj7)即Xmaj7，大七和弦（大三和弦+根音的大七度音）；可简化为Xmaj
+Xmin(min7)即Xmin7，小七和弦（小三和弦+根音的小七度音）；可简化为Xmin
+Xmaj(min7)即X7，大小七和弦（大三和弦+根音的小七度音）；可简化为Xmaj
+Vmaj(min7)即V7，属七和弦（五级音为根音的大小七和弦）；可简化为Vmaj或VIIdim
+X1chord/X2，以X2为低音的X1chord和弦；可简化为X1chord
+
+
+前奏：
+bBmaj       Amin(min7)  |Gmin       Amin         |
+bBmaj       Amin(min7)/C|Gmin       Amaj         |
+bBmaj       Amin(min7)  |Gmin       Amin         |
+bBmaj       Cmaj        |Dsus4      Gmaj         |
+Dmin        Gmaj        |
+
+片段A1：
+Dmin        Gmaj/B      |Cmaj       Fmaj         |
+bBmaj       Cmaj        |Fmaj       Amaj         |
+Dmin        Gmaj/B      |Cmaj       Fmaj         |
+bBmaj       Cmaj        |Dmin       Cmaj         |
+片段B1：
+Gmaj/B      #Cdim       |Dmin       Dmin/C       |
+bBmaj       Cmaj        |Fmaj       Fmaj(min7)/bE|
+bBmaj       Amin        |Gmin       Dmin/F       |
+bBmaj       Amin/C      |Dsus4      Gmaj         |
+Gsus4       Gmaj        |
+片段C1：
+Emin        Cmaj(maj7)  |Dmaj       Gmaj         |*3
+Amin        Bmin        |Emin       Amaj         |
+Emin        Amaj        |
+
+桥段1：
+bBmaj(maj7) bBmaj(maj7) |Amin(min7) Amin(min7)   |
+bBmaj       Amin/C      |Dsus4      Gmaj         |
+Dmin        Gmaj        |
+
+片段A1：省略
+片段B1：省略
+片段C2：
+Emin        Cmaj(maj7)  |Dmaj       Gmaj         |*3
+Amin        Bmin        |Emin       Bmin/D       |
+Cmaj        Dmaj        |
+
+桥段2：
+bEmaj(maj7) bEmaj(maj7) |Fmaj/bE    Fmaj/bE      |*2
+Dmin(min7)  Dmin(min7)  |Gmin       Gmin/F       |
+Gmin/bE     Gmin/bE     |Dsus4      Dmaj         |
+Esus4       Emaj        |
+
+片段C3：
+Emin        Cmaj(maj7)  |Dmaj       Gmaj         |*3
+Amin        Bmin        |Emin       Emin         |
+
+尾奏：
+Cmaj(maj7)  Bmin(min7)  |Amin       Bmin         |
+Cmaj        Bmin(min7)/D|Amin       Bmaj         |
+Cmaj(maj7)  Bmin(min7)  |Amin       Bmin         |
+Cmaj        Dmaj        |Esus4      Emaj         |
