@@ -1,0 +1,66 @@
+﻿拍子: 4/4
+调式: Ⅰ=C，大调
+说明: 原调Ⅰ=G
+
+
+Section_A1:{
+前奏
+Ⅰmaj        |Ⅳmin        |
+}*2
+
+Section_B1:{
+嘿，下雨了……
+Ⅰmaj  Ⅰ7   |Ⅳmaj  Ⅳmin |
+Ⅲmin  Ⅵ7   |Ⅱmin7 Ⅴmaj |
+}*2
+
+Section_C1:{
+bye bye 朋友……
+Ⅳmin  Ⅳmin |Ⅲmin  Ⅵ7   | 
+Ⅱmin7 Ⅱmin7|Ⅴmaj  Ⅴmaj |
+Ⅴ7    Ⅴ7   |
+}
+
+Section_D1:{
+我不再唱歌……
+Ⅰmaj  Ⅰmaj |Ⅲmin  Ⅲmin |
+Ⅱmin7 Ⅱmin7|Ⅴmaj  Ⅴmaj |
+}*2
+
+Section_A1*2
+间奏1
+
+Section_B1*2
+嘿，长亭外……
+
+Section_C1
+bye bye 朋友……
+
+Section_D1*4
+我不再唱歌……
+
+间奏2
+Ⅳmin  Ⅳmin |Ⅰ7    Ⅰ7     |
+Ⅳmin  Ⅳmin |
+
+Na……
+Ⅰ7    Ⅲmin/Ⅶ|Ⅵmin  Ⅴmaj |
+Ⅳmaj  Ⅳmin   |Ⅴ7    Ⅴmaj |
+
+Section_D2:{
+我不再唱歌……
+Ⅰmaj  Ⅰmaj |Ⅲmin/Ⅶ Ⅲmin/Ⅶ|
+Ⅱmin7 Ⅱmin7|Ⅴmaj    Ⅴmaj   |
+}
+
+Section_D1
+未唱完的歌……
+
+Section_D1
+Na……
+
+Section_D3:{
+Ⅰmaj  Ⅰmaj |Ⅲmin    Ⅲmin   |
+Ⅱmin7 Ⅱmin7|Ⅰmaj/Ⅴ Ⅴ7     |
+Ⅰmaj        |
+}

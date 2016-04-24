@@ -9,7 +9,7 @@ Xsus4，挂四和弦，可简化为Xmaj
 Xmaj(maj7)，即Xmaj7，大七和弦（大三和弦+根音的大七度音）；可简化为Xmaj
 Xmin(min7)，即Xmin7，小七和弦（小三和弦+根音的小七度音）；可简化为Xmin
 Xmaj(min7)，即X7，大小七和弦（大三和弦+根音的小七度音）；可简化为Xmaj
-Vmaj(min7)，即V7，属七和弦（属音为根音的大小七和弦）；可简化为Vmaj或VIIdim
+Vmaj(min7)，即V7，属七和弦（根音为属音的大小七和弦）；可简化为Vmaj或VIIdim
 X1chord/X2，以X2为低音的X1chord和弦；可简化为X1chord
 
 
